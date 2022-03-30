@@ -1,0 +1,76 @@
+/*BANNER*/
+.my-banner{
+    width: 100%;
+    font-size: 200%;
+    text-align: center;
+    color: white;
+    background-color: blue;
+}
+/*LI TAGS*/
+li{
+    padding-right: 15px;
+}
+/*USER NAV*/
+.modal-pre-auth{
+    display: block;
+}
+.modal-post-auth{
+    display: none;
+}
+/*ADMIN NAV*/
+.modal-pre-admin{
+    display: block;
+
+}
+.modal-post-admin{
+    display: none;
+
+}
+.error-add-product{
+    color: red;
+}
+.error-edit-product{
+    color:red;
+}
+.error-add-review{
+    color: red;
+}
+.error-edit-review{
+    color:red;
+}
+
+.form-view-review{
+    padding-left: 72px;
+    padding-bottom: 5px;
+    
+}
+
+.card-title{
+    text-align: center;
+}
+.card-body{
+    text-align: center;
+
+}
+.btn-custom{
+    width: 80px;
+    height: 80px;
+}
+
+.modal-header{
+    background-color: blue;
+    color:azure;
+}
+
+input {
+    display: block;
+    margin: 8px 0;
+    padding: 8px 2px;
+    border-width: 0 0 2px 0;
+    width: 100%;
+}
+
+textarea{
+    width: 100%;
+    min-height: 150px;
+}
